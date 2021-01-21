@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">QR Scanner</string>
+
+
+    <string name="login">লগইন</string>
+    <string name="username">ইউজারনেম</string>
+    <string name="password">পাসওয়ার্ড</string>
+
+    <string name="give_username_">ইউজারনেম দিন</string>
+    <string name="give_password">পাসওয়ার্ড দিন</string>
+
+    <string name="password_length_short">পাসওয়ার্ড অন্তত ৬ অঙ্কের হতে হবে</string>
+    <string name="invalid_user">ভূল ইউজারনেম বা পাসওয়ার্ড</string>
+    <string name="login_failed">লগইন ব্য়র্থ হয়েছে। আবার চেষ্টা করুন।</string>
+
+
+    <string name="scan_qr">স্ক্যান করুন</string>
+    <string name="scan_title">প্রোডাক্টের গায়ে দেয়া QR কোডটি স্ক্যান করুন</string>
+    <string name="scanning">স্ক্যান করা হচ্ছে ...</string>
+
+    <string name="validation_failed">কোড যাচাই ব্য়র্থ হয়েছে। আবার চেষ্টা করুন।</string>
+    <string name="invalid_code">কোডটি সঠিক নয়</string>
+    <string name="code_expired">কোডটির মেয়াদ শেষ হয়ে গেছে</string>
+
+
+    <string name="coupon_info">কুপন কোড তথ্য</string>
+    <string name="batch_no">ব্যাচ নাম্বারঃ </string>
+    <string name="coupon">কুপনঃ </string>
+    <string name="expiry_date">মেয়াদউত্তির্ণের তারিখঃ </string>
+    <string name="bdt">৳</string>
+
+
+    <string name="please_wait">অপেক্ষা করুন ...</string>
+    <string name="validating_code">কোড যাচাই করা হচ্ছে ...</string>
+
+
+    <string name="unknown_error">সার্ভার ত্রুটি। আবার চেষ্টা করুন।</string>
+    <string name="not_connected">মোবাইল ডেটা / ওয়াইফাই চালু করুন</string>
+    <string name="no_active_connection">ইন্টারনেট সংযোগ সক্রিয় নয়</string>
+    <string name="session_end">সেশন শেষ</string>
+    <string name="login_again">আপনার বর্তমান লগইন সেশন এর সময় শেষ হয়ে গিয়েছে। অনুগ্রহ করে আবার লগইন করুন।</string>
+    <string name="okay">ওকে</string>
+    <string name="logout">লগ আউট</string>
+</resources>
